@@ -11,7 +11,7 @@ Projects
 Project 1: NumberGuesser
 Description: The NumberGuesser project is a console-based game where the user tries to guess a randomly generated number within a specified range. The program provides feedback on whether the guess is too high or too low and keeps track of the number of attempts made by the user.
 
-Navigate to the Project Directory:
+Navigate to the Project Directory:https://github.com/madhugowdaks3012/CODSOFT/blob/280578467d9e9675be0faf1c57eb556255b7ee01/numberguesser.cpp
 
 Key Features:
 
@@ -33,7 +33,7 @@ Handles invalid input gracefully with error messages.
 Allows continuous calculations until the user decides to exit.
 Technologies Used: C++, Standard Library (STL)
 
-Navigate to the Project Directory:
+Navigate to the Project Directory:https://github.com/madhugowdaks3012/CODSOFT/blob/280578467d9e9675be0faf1c57eb556255b7ee01/basiccalculator.cpp
 
 Project 3: To Do List
 Description: The To Do List project is a console application that allows users to manage a list of tasks. Users can add, remove, and view tasks, as well as mark tasks as completed. This project provides a simple interface for task management and demonstrates file handling for saving and loading tasks.
