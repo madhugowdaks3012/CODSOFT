@@ -51,6 +51,6 @@ Navigate to the Project Directory:https://github.com/madhugowdaks3012/CODSOFT/bl
 This repository contains code and documentation developed during my internship at Codsoft. For any questions or further details about specific projects or code, feel free to open an issue or reach out to me directly.
 
 Contact
-For any inquiries or feedback, please contact me at [madhugowdaks3012@example.com].
+For any inquiries or feedback, please contact me at [madhugowdaks3012@gmail.com].
 
 Thank you for visiting my repository and reviewing my work from the Codsoft internship!
