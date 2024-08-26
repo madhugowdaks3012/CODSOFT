@@ -11,6 +11,8 @@ Projects
 Project 1: NumberGuesser
 Description: The NumberGuesser project is a console-based game where the user tries to guess a randomly generated number within a specified range. The program provides feedback on whether the guess is too high or too low and keeps track of the number of attempts made by the user.
 
+Navigate to the Project Directory:
+
 Key Features:
 
 Generates a random number within a specified range.
@@ -19,6 +21,19 @@ Keeps track of the number of attempts.
 Includes basic input validation to ensure correct user input.
 Technologies Used: C++, Standard Library (STL)
 
+Navigate to the Project Directory:
+
+Project 2: Basic Calculator
+Description: The Basic Calculator project is a console application that performs basic arithmetic operations, including addition, subtraction, multiplication, and division. The user inputs two numbers and selects an operation, and the program outputs the result.
+
+Key Features:
+
+Supports basic arithmetic operations: addition, subtraction, multiplication, and division.
+Handles invalid input gracefully with error messages.
+Allows continuous calculations until the user decides to exit.
+Technologies Used: C++, Standard Library (STL)
+
+Navigate to the Project Directory:
 
 Project 3: To Do List
 Description: The To Do List project is a console application that allows users to manage a list of tasks. Users can add, remove, and view tasks, as well as mark tasks as completed. This project provides a simple interface for task management and demonstrates file handling for saving and loading tasks.
