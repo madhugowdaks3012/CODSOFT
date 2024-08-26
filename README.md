@@ -11,7 +11,6 @@ Projects
 Project 1: NumberGuesser
 Description: The NumberGuesser project is a console-based game where the user tries to guess a randomly generated number within a specified range. The program provides feedback on whether the guess is too high or too low and keeps track of the number of attempts made by the user.
 
-Navigate to the Project Directory:https://github.com/madhugowdaks3012/CODSOFT/blob/280578467d9e9675be0faf1c57eb556255b7ee01/numberguesser.cpp
 
 Key Features:
 
@@ -21,7 +20,7 @@ Keeps track of the number of attempts.
 Includes basic input validation to ensure correct user input.
 Technologies Used: C++, Standard Library (STL)
 
-Navigate to the Project Directory:
+Navigate to the Project Directory:https://github.com/madhugowdaks3012/CODSOFT/blob/280578467d9e9675be0faf1c57eb556255b7ee01/numberguesser.cpp
 
 Project 2: Basic Calculator
 Description: The Basic Calculator project is a console application that performs basic arithmetic operations, including addition, subtraction, multiplication, and division. The user inputs two numbers and selects an operation, and the program outputs the result.
@@ -47,6 +46,7 @@ View all tasks with their completion status.
 Saves tasks to a file and loads them when the application starts.
 Technologies Used: C++, File I/O, Standard Library (STL)
 
+Navigate to the Project Directory:https://github.com/madhugowdaks3012/CODSOFT/blob/a90a63d31c8e1f89348b20ad209b3f82e9d4fae0/todolist.cpp
 
 This repository contains code and documentation developed during my internship at Codsoft. For any questions or further details about specific projects or code, feel free to open an issue or reach out to me directly.
 
